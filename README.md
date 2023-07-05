@@ -52,7 +52,7 @@
 <a href="https://github.com/mahima29jaiswal?tab=followers"><img src="https://img.shields.io/github/followers/mahima29jaiswal?label=Followers&style=social" alt="GitHub Badge"></a>
 
  <hr/>
-
+<a href="https://mahima29jaiswal.github.io/">Github Portfolio</a>
 
 
 # [Portfolio](https://mahima29jaiswal.github.io/)
