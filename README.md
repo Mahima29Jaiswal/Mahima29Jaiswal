@@ -17,8 +17,8 @@
    
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mahima29jaiswal&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="shubhi-sharma" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=mahima29jaiswal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubhi-sharma" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mahima29jaiswal&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Mahima-Jaiswal" />
+    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=mahima29jaiswal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mahima Jaiswal" />
     
 </div>
 
@@ -41,9 +41,7 @@
 
 ## Connect with me:
 <p align="left">  
-<a href="https://www.linkedin.com/in/shubhi-sharma-145a65232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhi-sharma-145a65232/" height="30" width="40" /></a> 
-<a href="https://twitter.com/shubhisharma4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shubhisharma4u" height="30" width="40" /></a>
-<a href="https://www.instagram.com/___shubhiiiiiii___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___shubhiiiiiii___/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mahima-jaiswal-320266141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahima-jaiswal-320266141" height="30" width="40" /></a> 
 </p>
 
 ## ❤ Views and Followers
@@ -55,10 +53,6 @@
 
  <hr/>
 
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
 # [Portfolio](https://mahima29jaiswal.github.io/)
