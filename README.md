@@ -1,8 +1,9 @@
- <h1 align="center">Hi 👋, I'm Mahima Jaiswal</h1>
- <a href="https://github.com/mahima29jaiswal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mahima29jaiswal">
-</a>
-<a href="https://github.com/mahima29jaiswal?tab=followers"><img src="https://img.shields.io/github/followers/mahima29jaiswal?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center"><img src="https://i.gifer.com/origin/d7/d72fdb011630fad8d1472c4af0292364.gif"  alt="Coding" width="100%"height="500"></p>
+ 
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mahima Jaiswal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=30">
+</p>
 
  <br/>
     <h4 align="center">
@@ -55,7 +56,7 @@
 <h2><a href="https://mahima29jaiswal.github.io">🌍 | Portfolio </a>
 
 
-# [Portfolio](https://mahima29jaiswal.github.io/)
+
 
 
 
