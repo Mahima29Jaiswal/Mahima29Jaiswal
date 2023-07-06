@@ -18,9 +18,9 @@
    
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mahima29jaiswal&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Mahima-Jaiswal" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=mahima29jaiswal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mahima Jaiswal" />
-    
+    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mahima29jaiswal&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Mahima-Jaiswal" />
+    <img width="400px" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=mahima29jaiswal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mahima Jaiswal" />
+    <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima29jaiswal&theme=neon&border_radius=2.7" alt="Mahima_Jaiswal" />
 </div>
 
 ## 🏆 Trophies:
