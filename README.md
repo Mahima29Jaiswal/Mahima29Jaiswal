@@ -10,7 +10,6 @@
       A skilled and self-motivated MERN Stack developer, Expert in MongoDB, Express.js, React, and Node.js. I have developed dynamic and interactive user interfaces using popular libraries and frameworks. I am a team player with good communication skills, and I am excited to contribute my skills and passion for creating innovative and scalable web applications as a MERN stack developer. Seeking new opportunities to contribute and enhance skills
     </h4>
     <br />
-
    
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
@@ -51,6 +50,7 @@
 <a href="https://github.com/mahima29jaiswal/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mahima29jaiswal">
 </a>
+
 <a href="https://github.com/mahima29jaiswal?tab=followers">
  <img src="https://img.shields.io/github/followers/mahima29jaiswal?label=Followers&style=social" alt="GitHub Badge">
 </a>
