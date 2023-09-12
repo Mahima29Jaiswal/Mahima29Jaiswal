@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.gifer.com/origin/d7/d72fdb011630fad8d1472c4af0292364.gif"  alt="Coding" width="100%"height="500"></p>
  
- <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://github.com/VivekGhalout" target="_blank" rel="noopener noreferrer"> Mahima Jaiswal </a></h2>
+ <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://github.com/mahima29jaiswal" target="_blank" rel="noopener noreferrer"> Mahima Jaiswal </a></h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
 </p>
@@ -12,7 +12,7 @@
     <br />
    
 ## 📊 Github Stats
-<div align="center" style="display: flex; flex-wrap: nowrap;">
+<div align="center" style="display: flex; flex-wrap: wrap;">
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mahima29jaiswal&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Mahima-Jaiswal" />
     <img width="400px" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=mahima29jaiswal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mahima Jaiswal" />
     <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima29jaiswal&theme=neon&border_radius=2.7" alt="Mahima_Jaiswal" />
